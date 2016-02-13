@@ -10,24 +10,18 @@ This will load just the BLE portion of the code with default values. The definit
 
 
 ### Files 
-
-
 #### index.js
 
 Loads the BLE service and creates a new object object.
-
 #### oven.js
 
 The actual oven itself. This has current values and functions for starting the oven.
-
 #### oven-service.js
 
 The BLE service that loads the characteristics.
-
 ### Current Characteristics
 
 #### Display Temperature
-
 The temperature of the oven that is displayed to the user
 
 ## UI
@@ -40,10 +34,7 @@ This loads a small menu system that you can use to set fake values for various p
 ### Files
 
 #### index.js
-
 Loads the User interface and the Oven
 
-
 #### ui.js
-
 Contains the fake data and menu system.
