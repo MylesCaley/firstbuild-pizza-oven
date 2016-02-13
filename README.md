@@ -18,6 +18,7 @@ The temperature of the oven that is displayed to the user
 ## UI
 
 To start the UI + the BLE service :
+
 `cd ./simulator/ && node .`
 
 This loads a small menu system that you can use to set fake values for various pizza oven values.
